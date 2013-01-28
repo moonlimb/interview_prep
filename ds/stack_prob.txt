@@ -1,0 +1,11 @@
+
+Interactive Python : 
+    http://interactivepython.org/courselib/static/pythonds/BasicDS/stacks.html
+
+
+- balanced parentheses
+- convert decimal to binary
+
+- infix to postfix conversion
+- postfix eval
+

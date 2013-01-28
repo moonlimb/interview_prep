@@ -1,0 +1,40 @@
+- test if tree is balanced
+
+- implement a basic binary search
+
+- given a tuple (eg. (a,b,c))
+    output : (*,*,*), (*,*,c), (*,b,*), (*, b, c), (a, *, *), (a, *, c), (a, b, *), (a, b, c)
+
+- convert infix expr to postfix
+
+- given an array w/ all elts sorted on each row and column, find the k-th smallest elt
+
+- implement int division w/out using / 
+
+- given a number n, write a fcn that returns the nth fibonaci number:
+    discuss time, space complexity, iterative vs. recursive
+
+- in a binary integer value tree, find the lowest level common ancestor of two values
+
+
+- topological sorting
+
+- what is REST?
+
+- given an array of numbers and a number k, find if two number int he array add up to k
+
+Discuss running time, space complexity...
+
+- str reversal
+- given a str representing a roman numeral, find its numeric value
+    eg XXIV = 24
+
+- given a string representing sorted numbers with spaces, pritn the count of each number
+    Input: "1 1 2 3 4 4"
+    Output: "1:2
+            2:1
+            3:1
+            4:2"
+    w/ modification
+    (hex numbers)
+
